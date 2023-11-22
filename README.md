@@ -8,11 +8,11 @@
 
 Reference:
   Xijun Liang, An Xiao, Kaili Zhang, Suhang Wang and Ling Jian, A Robust Online Positive-Unlabeled Learning Algorithm. 
-  38th Conference on Uncertainty in Artificial Intelligence (UAI 2022, under review)
+   under review, 2023 
 
  For commercial usage of this package, please contact  XiaoAn: shaws1996@163.com,    Xijun Liang:  liangxijunsd@163.com
 
-2022.2
+2023.11
 
 
 
